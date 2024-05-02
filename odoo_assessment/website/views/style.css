@@ -9,7 +9,7 @@ body {
     display: inline-block;
     width: 30px;
     height: 4px;
-    color: #000;
+    margin: 6px auto;
     font: bold 13px / .4 Helvetica;
     text-transform: uppercase;
     text-indent: -55px;
