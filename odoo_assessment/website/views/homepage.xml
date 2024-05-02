@@ -5,18 +5,17 @@
         <xpath expr="//header" position="replace">
             <link rel="stylesheet" href="style.css"/>
             <header>
-                <header>
-        <nav class="topnav">
-            <a href="#home" class="active">Welcome to my Website</a>
-            <div id="myLinks">
-              <a href="#about">About</a>
-              <a href="#contact">Contact</a>
-              <a href="#services">Services</a>
-            </div>
+                <div class="topnav">
+                    <a href="#home" class="active">Welcome to my Website</a>
+                    <div id="myLinks">
+                      <a href="#about">About</a>
+                      <a href="#contact">Contact</a>
+                        <a href="#services">Services</a>
+                </div>
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
               <i class="fa fa-bars"></i>
             </a>
-        </nav>
+        </div>
     </header>
     <body>
         <div class="body">
